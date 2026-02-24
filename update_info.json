@@ -1,0 +1,10 @@
+{
+    "timestamp": 202701011010,
+    "title": "Testing update...",
+    "downloadLink": {
+        "ARM64": "https://github.com/faizul726/mb-loader-release/releases/download/dev/MBLoaderJP-github-20260224-0134-fa8d985.apk",
+        "ARM32": "http://example.com/download/arm32",
+        "X86_64": "http://example.com/download/x86_64",
+        "X86": "http://example.com/download/x86"
+    }
+}
