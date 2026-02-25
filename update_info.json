@@ -1,6 +1,7 @@
 {
     "timestamp": 202701011010,
-    "title": "Testing update...",
+    "title": "v2.6 but not really",
+    "description": "So you should be\nable\nto\nsee this in multi line. Update will actually downgrade to an older version\n- Maintainer",
     "downloadLink": {
         "ARM64": "https://github.com/faizul726/mb-loader-release/releases/download/dev/MBLoaderJP-github-20260224-0134-fa8d985.apk",
         "ARM32": "http://example.com/download/arm32",
